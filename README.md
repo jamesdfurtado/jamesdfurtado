@@ -1,12 +1,10 @@
-<h1>👋 Hi, I'm James Furtado</h1>
+<h1>🌟 Hi, I'm James Furtado</h1>
 
 <p>
 I'm a Computer Engineering grad from URI interested in building tools that make workflows smarter and faster.
 </p>
 
-
-
-<h2>🛠️ Main Tech Stack</h2>
+<h2>Main Tech Stack</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
@@ -24,7 +22,7 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
 
 
 
-<h2>🚧 What I'm Working On</h2>
+<h2>💼 What I'm Working On</h2>
 
 <ul>
   <li><strong>SimuATS</strong> – An AI-powered resume screening simulator that ranks resumes like an actual ATS</li>
@@ -42,6 +40,9 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
 
 <h2>📫 Contact Me</h2>
 
-<p>
-  <a href="https://www.linkedin.com/in/james-furtado">LinkedIn</a> · jamesdfurtado@gmail.com · +1 (860) 373-3226
-</p>
+<ul>
+  <li>
+    Check out <strong><a href="https://github.com/jamesdfurtado/weather-app">weather-app</a></strong> and 
+    <strong><a href="https://github.com/jamesdfurtado/Community-Library">Community-Library</a></strong>!
+  </li>
+</ul>
