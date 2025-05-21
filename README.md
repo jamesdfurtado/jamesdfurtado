@@ -1,31 +1,47 @@
-# 👋 Hi, I'm James Furtado
+<h1>👋 Hi, I'm James Furtado</h1>
 
-Computer Engineering grad from URI interested in buiding real-world tools that make workflows smarter and faster.
-
-<h3 align="center">Main Tech Stack</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="70"/>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="70"/>
+<p>
+I'm a Computer Engineering grad from URI interested in building tools that make workflows smarter and faster.
 </p>
 
+<hr/>
 
-## 🚧 What I'm Working On
-- **SimuATS** – An AI-powered resume screening simulator that ranks resumes like an actual ATS
+<h2>🛠️ Main Tech Stack</h2>
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60"/>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60"/>
+</p>
 
-## 📌 Pinned Projects
-- Check out "weather-app" and "Community-Library"!
+<hr/>
 
+<h2>🚧 What I'm Working On</h2>
 
-## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/james-furtado) · jamesdfurtado@gmail.com · +1 (860) 373-3226
+<ul>
+  <li><strong>SimuATS</strong> – An AI-powered resume screening simulator that ranks resumes like an actual ATS</li>
+</ul>
+
+<hr/>
+
+<h2>📌 Pinned Projects</h2>
+
+<ul>
+  <li>Check out <strong>weather-app</strong> and <strong>Community-Library</strong>!</li>
+</ul>
+
+<hr/>
+
+<h2>📫 Contact Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/james-furtado">LinkedIn</a> · jamesdfurtado@gmail.com · +1 (860) 373-3226
+</p>
