@@ -2,8 +2,6 @@
 
 Computer Engineering grad from URI interested in buiding real-world tools that make workflows smarter and faster.
 
----
-
 <h3 align="center">Main Tech Stack</h3>
 
 <p align="center">
@@ -21,20 +19,13 @@ Computer Engineering grad from URI interested in buiding real-world tools that m
 </p>
 
 
----
-
 ## 🚧 What I'm Working On
-- 🔎 **SimuATS** – An AI-powered resume screening simulator that ranks resumes like an actual ATS
+- **SimuATS** – An AI-powered resume screening simulator that ranks resumes like an actual ATS
 
----
 
 ## 📌 Pinned Projects
-> 👉 Check out "weather-app" and "Community-Library"!
+- Check out "weather-app" and "Community-Library"!
 
----
 
 ## 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/james-furtado) · jamesdfurtado@gmail.com · +1 (860) 373-3226
-
-
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdfurtado&show_icons=true&theme=default)
