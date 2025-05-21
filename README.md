@@ -33,16 +33,16 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
 <h2>📌 Pinned Projects</h2>
 
 <ul>
-  <li>Check out <strong>weather-app</strong> and <strong>Community-Library</strong>!</li>
+  <li>
+    Check out <strong><a href="https://github.com/jamesdfurtado/weather-app">weather-app</a></strong> and 
+    <strong><a href="https://github.com/jamesdfurtado/Community-Library">Community-Library</a></strong>!
+  </li>
 </ul>
 
 
 
 <h2>📫 Contact Me</h2>
 
-<ul>
-  <li>
-    Check out <strong><a href="https://github.com/jamesdfurtado/weather-app">weather-app</a></strong> and 
-    <strong><a href="https://github.com/jamesdfurtado/Community-Library">Community-Library</a></strong>!
-  </li>
-</ul>
+<p>
+  <a href="https://www.linkedin.com/in/james-furtado">LinkedIn</a> · jamesdfurtado@gmail.com · +1 (860) 373-3226
+</p>
