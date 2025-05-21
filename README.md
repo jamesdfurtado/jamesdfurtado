@@ -4,7 +4,7 @@
 I'm a Computer Engineering grad from URI interested in building tools that make workflows smarter and faster.
 </p>
 
-<hr/>
+
 
 <h2>🛠️ Main Tech Stack</h2>
 
@@ -22,7 +22,7 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60"/>
 </p>
 
-<hr/>
+
 
 <h2>🚧 What I'm Working On</h2>
 
@@ -30,7 +30,7 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
   <li><strong>SimuATS</strong> – An AI-powered resume screening simulator that ranks resumes like an actual ATS</li>
 </ul>
 
-<hr/>
+
 
 <h2>📌 Pinned Projects</h2>
 
@@ -38,7 +38,7 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
   <li>Check out <strong>weather-app</strong> and <strong>Community-Library</strong>!</li>
 </ul>
 
-<hr/>
+
 
 <h2>📫 Contact Me</h2>
 
