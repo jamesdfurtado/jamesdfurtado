@@ -25,20 +25,16 @@ Computer Engineering grad from URI interested in buiding real-world tools that m
 
 ## 🚧 What I'm Working On
 - 🔎 **SimuATS** – An AI-powered resume screening simulator that ranks resumes like an actual ATS
-- 📚 **AI Study Coach** – Streamlit-based tool that turns your notes into quizzes and study guides
-- ☁️ Hosting projects on my own cloud stack with Nginx + Cloudflare tunnels
 
 ---
 
 ## 📌 Pinned Projects
-> 👉 See the "Pinned" section below for my top repos with clean READMEs
+> 👉 Check out "weather-app" and "Community-Library"!
 
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/james-furtado) · [GitHub](https://github.com/jamesdfurtado) · jamesdfurtado@gmail.com
+[LinkedIn](https://www.linkedin.com/in/james-furtado) · jamesdfurtado@gmail.com · +1 (860) 373-3226
 
-<!-- Optional: Add GitHub stats only if useful -->
-<!--
+
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdfurtado&show_icons=true&theme=default)
--->
