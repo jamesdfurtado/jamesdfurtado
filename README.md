@@ -24,7 +24,7 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
 <h2>💼 What I'm Working On</h2>
 
 <ul>
-  <li><strong>GitMini</strong> – A lightweight CLI version control system built in Python that replicates core Git commands from scratch.</li>
+  <li><strong>GitMini</strong> – A lightweight CLI version control system built in Python that performs core Git commands-- created from scratch.</li>
 </ul>
 
 
