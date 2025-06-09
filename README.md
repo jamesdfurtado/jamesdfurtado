@@ -24,7 +24,7 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
 <h2>💼 What I'm Working On</h2>
 
 <ul>
-  <li><strong>GitMini</strong> – A lightweight CLI version control system built in Python that performs core Git commands-- created from scratch.</li>
+  <li><strong>SimuAUTS</strong> – An AI-powered resume scanner that simulates Applicant Tracking Systems to evaluate and improve resumes based on job descriptions.</li>
 </ul>
 
 
@@ -34,7 +34,7 @@ I'm a Computer Engineering grad from URI interested in building tools that make 
 <ul>
   <li>
     Check out <strong><a href="https://github.com/jamesdfurtado/weather-app">weather-app</a></strong> and 
-    <strong><a href="https://github.com/jamesdfurtado/Community-Library">Community-Library</a></strong>!
+    <strong><a href="https://github.com/jamesdfurtado/gitmini">GitMini</a></strong>!
   </li>
 </ul>
 
