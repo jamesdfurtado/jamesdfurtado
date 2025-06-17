@@ -1,7 +1,9 @@
 <h1>🌟 Hi, I'm James Furtado</h1>
 
 <p>
-I'm a Computer Engineering grad from URI interested in building tools that make workflows smarter and faster.
+I'm a Full-Stack Engineer and recent grad from URI, interested in building tools that make workflows smarter and faster. Feel free to explore!
+
+Currently looking for full-time positions in the Greater Boston area.
 </p>
 
 <h2>Main Tech Stack</h2>
