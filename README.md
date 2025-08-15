@@ -26,7 +26,7 @@ Currently looking for full-time positions in the Greater Boston area.
 <h2>💼 What I'm Working On</h2>
 
 <ul>
-  <li><strong><a href="https://github.com/jamesdfurtado/payload-sim">GitMiniHub</a></strong> – A submarine launch control system simulator built in C++, designed with organized object-oriented practices and Systems Engineering documents.</li>
+  <li><strong><a href="https://github.com/jamesdfurtado/payload-sim">Payload Launch Control Simulator</a></strong> – A submarine payload launch control system simulator built in C++, designed with organized object-oriented practices and Systems Engineering documents.</li>
 </ul>
 
 
