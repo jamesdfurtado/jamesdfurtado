@@ -26,7 +26,7 @@ Currently looking for full-time positions in the Greater Boston area.
 <h2>💼 What I'm Working On</h2>
 
 <ul>
-  <li><strong><a href="https://github.com/jamesdfurtado/gitminihub">GitMiniHub</a></strong> – A full-stack application for hosting remote repositories for my custom-made version control software, GitMini!</li>
+  <li><strong><a href="https://github.com/jamesdfurtado/payload-sim">GitMiniHub</a></strong> – A submarine launch control system simulator built in C++, designed with organized object-oriented practices and Systems Engineering documents.</li>
 </ul>
 
 
