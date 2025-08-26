@@ -1,7 +1,7 @@
 <h1>🌟 Hi, I'm James Furtado</h1>
 
 <p>
-I'm a Full-Stack Engineer and recent grad from URI, interested in all things software.
+I'm a Software Engineer and recent grad from URI.
 
 Currently looking for full-time positions in the US!
 </p>
