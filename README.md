@@ -23,11 +23,6 @@ Currently looking for full-time positions in the US!
 
 
 
-<strong><a href="https://github.com/jamesdfurtado/portfolio">My Portfolio</a></strong>
-
-<em></em>
-
-
 <h2>📫 Contact Me</h2>
 
 <p>
