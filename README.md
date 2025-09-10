@@ -23,23 +23,7 @@ Currently looking for full-time positions in the US!
 
 
 
-<h2>💼 What I'm Working On</h2>
-
-<ul>
-  <li><strong><a href="https://github.com/jamesdfurtado/payload-sim">Payload Launch Control Simulator</a></strong> – A submarine payload launch control system simulator built in C++, designed with organized object-oriented practices and Systems Engineering documents.</li>
-</ul>
-
-
-
-<h2>📌 Pinned Projects</h2>
-
-<ul>
-  <li>
-    Check out <strong><a href="https://github.com/jamesdfurtado/weather-app">weather-app</a></strong> and 
-    <strong><a href="https://github.com/jamesdfurtado/gitmini">GitMini</a></strong>!
-  </li>
-</ul>
-
+<h2><strong><a href="https://github.com/jamesdfurtado/portfolio">My Portfolio website</a></strong></h2>
 
 
 <h2>📫 Contact Me</h2>
