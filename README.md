@@ -4,4 +4,4 @@ I'm a recent Computer Engineering graduate from URI skilled in software engineer
 
 I'm currently expanding skills in Embedded Systems, Rust, and DevOps.
 
-https://jamesdfurtado.github.io/website/
+[My Project Blog!](https://jamesdfurtado.github.io/website/)
